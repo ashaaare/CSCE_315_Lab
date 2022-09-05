@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(175, 250, 150);
+    background-size: cover;
+}
+
+
+.columns{
+    column-count: 2;
+    text-align: center;
+}
+  
+
+.box{
+    width: 450px;
+	background: rgba(255, 255, 255);
+	padding: 40px;
+	text-align: center;
+	margin: auto;
+	color: black;
+}
