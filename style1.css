@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: rgb(175, 250, 150);
+    background-color: rgb(200, 225, 225);
     background-size: cover;
 }
 
@@ -14,9 +14,23 @@ body{
 
 .box{
     width: 450px;
-	background: rgba(255, 255, 255);
-	padding: 40px;
+	length: 500px;
+	background: rgba(0,125,125);
+	padding: 10px;
 	text-align: center;
 	margin: auto;
-	color: black;
+	color: rgba(225, 225, 225);
+	font-family: Georgia;
+}
+
+.columns{
+  column-count: 2;
+  text-align: center;
+}
+
+.panel {
+  background-color: rgb(220, 220, 220);
+  border: 2px solid rgb(0,125,125);
+  padding: 10px;
+  margin: 0 0 1em 0;
 }
