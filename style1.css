@@ -5,13 +5,6 @@ body{
     background-size: cover;
 }
 
-
-.columns{
-    column-count: 2;
-    text-align: center;
-}
-  
-
 .box{
     width: 450px;
 	length: 500px;
@@ -30,7 +23,8 @@ body{
 
 .panel {
   background-color: rgb(220, 220, 220);
-  border: 2px solid rgb(0,125,125);
+  border: 5px solid rgb(0,125,125);
   padding: 10px;
   margin: 0 0 1em 0;
+  
 }
